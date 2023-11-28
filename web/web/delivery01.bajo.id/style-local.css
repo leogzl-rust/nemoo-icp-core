@@ -1,0 +1,20 @@
+.left_col {
+	/* background-image: linear-gradient(to right, #05a6f0, #b0e0e6); */
+	background: #b0e0e6;
+}
+
+.navbar-header {
+	background: #b0e0e6;
+}
+
+.menu_section h3 {
+	color: inherit;
+}
+
+.nav.child_menu > li > a {
+	color: inherit;
+}
+
+.nav.side-menu > li > a, .nav.child_menu > li > a {
+	color: inherit;
+}
