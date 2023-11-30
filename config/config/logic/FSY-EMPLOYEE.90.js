@@ -1,7 +1,7 @@
 url = "https://nemoo.bajo.id/v1/saveFisher";
 
 fisher = {
-    "fish": {
+    "fisher": {
         "id": _.UNIQUE_ID,
         "city": "-",
         "age": 100,
